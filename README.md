@@ -1,7 +1,7 @@
 # MLKN.lab
 MultiLayer Knowledge Network, Ideas Laboratory
 
-# Multi-level Interdisciplinarity Knowledge Network
+# MultiLayer Interdisciplinarity Knowledge Network
 ### By François Papin · [LinkedIn](https://www.linkedin.com/in/francoispapin/)
 
 > Interactive knowledge network maps synthesising the research state of the art  
